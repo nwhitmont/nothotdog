@@ -8,4 +8,6 @@ Ever wondered if what you are looking at is a hotdog? The nothotdog bot has you 
 
 Silicon Valley S04E04:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ACmydtFDTGs" frameborder="0" allowfullscreen></iframe>
+> [Link](https://www.youtube.com/watch?v=ACmydtFDTGs)
+
+![video](http://img.youtube.com/vi/ACmydtFDTGs/0.jpg)
