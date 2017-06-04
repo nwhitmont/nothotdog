@@ -11,3 +11,5 @@ Silicon Valley S04E04:
 > [Link](https://www.youtube.com/watch?v=ACmydtFDTGs)
 
 ![video](http://img.youtube.com/vi/ACmydtFDTGs/0.jpg)
+
+Docker image also available on the [Hub](https://hub.docker.com/r/stevenfollis/nothotdog/)
