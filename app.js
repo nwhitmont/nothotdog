@@ -20,6 +20,11 @@ var connector = new builder.ChatConnector({
 var bot = new builder.UniversalBot(connector);
 server.post('/api/messages', connector.listen());
 
+// Create non-API route
+server.get('/', (request, response) => {
+  response.send('Howdy, World! Talk to me over a Bot Framework Channel.')
+});
+
 //=========================================================
 // Bots Dialogs
 //=========================================================
